@@ -4,7 +4,7 @@
 
 
 class script(object):
-    START_TXT = """<b>Hɛʟʟᴏ! {} ɪs Fɪʟᴇ Sᴛᴏʀᴇ Bᴏᴛ, ᴛʜᴇ ʟᴀᴛᴇsᴛ ᴀᴅᴠᴀɴᴄᴇᴅ ᴀɴᴅ ᴘᴏᴡᴇʀғᴜʟ ғɪʟᴇ sᴛᴏʀᴀɢᴇ bᴏᴛ ᴡɪᴛʜ ᴇxᴄɪᴛɪɴɢ ғᴇᴀᴛᴜʀᴇ</b>"""
+    START_TXT = """<b>Hɛʟʟᴏ! {}, ɪs fɪʟᴇ sᴛᴏʀᴇ bᴏᴛ ᴛʜᴇ ʟᴀᴛᴇsᴛ ᴀᴅᴠᴀɴᴄᴇᴅ ᴀɴᴅ ᴘᴏᴡᴇʀғᴜʟ ғɪʟᴇ sᴛᴏʀᴀɢᴇ bᴏᴛ ᴡɪᴛʜ ᴇxᴄɪᴛɪɴɢ ғᴇᴀᴛᴜʀᴇ</b>"""
 
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
@@ -43,13 +43,13 @@ If You Want To Remove Api Then Copy This And Send To Bot - `/api None`"""
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
 # Ask Doubt on telegram @KingVJ01
 
-    ABOUT_TXT = """<b>Hɛʟʟᴏ! {} ɪs Fɪʟᴇ Sᴛᴏʀᴇ Bᴏᴛ, ᴛʜᴇ ʟᴀᴛᴇsᴛ ᴀɴᴅ ᴘᴏᴡᴇʀғᴜʟ ᴘᴇʀᴍᴀɴᴇɴᴛ ғɪʟᴇ sᴛᴏʀᴀɢᴇ sᴏʟᴜᴛɪᴏɴ ᴡɪᴛʜ ᴇxᴄɪᴛɪɴɢ ғᴇᴀᴛᴜʀᴇs
+    ABOUT_TXT = """<b>Hɛʟʟᴏ! {},ᴍʏ ɴᴀᴍᴇ ɪs {}, ᴛʜᴇ ʟᴀᴛᴇsᴛ ᴀɴᴅ ᴘᴏᴡᴇʀғᴜʟ ᴘᴇʀᴍᴀɴᴇɴᴛ ғɪʟᴇ sᴛᴏʀᴀɢᴇ sᴏʟᴜᴛɪᴏɴ ᴡɪᴛʜ ᴇxᴄɪᴛɪɴɢ ғᴇᴀᴛᴜʀᴇs
 
 ✨ Clone & Backup Feature
 🔗 Stream/Download Link
 🌐 Custom URL Shortener Support
 🗑️ Auto-Delete & Security
-🚀 Best Performance & UI.
+🚀 Best Performance & UI
 
 🤖 ᴍʏ ɴᴀᴍᴇ: {}
 
