@@ -43,15 +43,15 @@ If You Want To Remove Api Then Copy This And Send To Bot - `/api None`"""
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
 # Ask Doubt on telegram @KingVJ01
 
-    ABOUT_TXT = """<b>ʜɪ ɪ ᴀᴍ ᴘᴇʀᴍᴀɴᴇɴᴛ ғɪʟᴇ sᴛᴏʀᴇ ʙᴏᴛ ᴡɪᴛʜ ᴄʟᴏɴᴇ ғᴇᴀᴛᴜʀᴇ + ᴄᴜsᴛᴏᴍ ᴜʀʟ sʜᴏʀᴛɴᴇʀ ɪᴛ ᴍᴇᴀɴs ᴀɴʏ ᴜsᴇʀ ᴄᴀɴ sᴇᴛ ʜɪs ᴜʀʟ sʜᴏʀᴛɴᴇʀ ᴀɴᴅ + ᴀᴜᴛᴏ ᴅᴇʟᴇᴛᴇ.
+    ABOUT_TXT = """<b>Hɛʟʟᴏ! Mʏ ɴᴀᴍᴇ ɪs Fɪʟᴇ Sᴛᴏʀᴇ Bᴏᴛ, ᴛʜᴇ ʟᴀᴛᴇsᴛ ᴀɴᴅ ᴘᴏᴡᴇʀғᴜʟ ᴘᴇʀᴍᴀɴᴇɴᴛ ғɪʟᴇ sᴛᴏʀᴀɢᴇ sᴏʟᴜᴛɪᴏɴ ᴡɪᴛʜ ᴇxᴄɪᴛɪɴɢ ғᴇᴀᴛᴜʀᴇs
+
+✨ Clone & Backup Feature
+🔗 Stream/Download Link
+🌐 Custom URL Shortener Support
+🗑️ Auto-Delete & Security
+🚀 Best Performance & UI.
 
 🤖 ᴍʏ ɴᴀᴍᴇ: {}
-
-📝 ʟᴀɴɢᴜᴀɢᴇ: <a href=https://www.python.org>𝐏𝐲𝐭𝐡𝐨𝐧𝟑</a>
-
-📚 ʟɪʙʀᴀʀʏ: <a href=https://docs.pyrogram.org>𝐏𝐲𝐫𝐨𝐠𝐫𝐚𝐦</a>
-
-🧑🏻‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ: <a href=https://t.me/CjTomOfficial>𝐓𝐞𝐜𝐡 𝐕𝐉</a>
 
 👥 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ: <a href=https://t.me/CjTomOfficial>𝐕𝐉 𝐒𝐮𝐩𝐩𝐨𝐫𝐭</a>
 
