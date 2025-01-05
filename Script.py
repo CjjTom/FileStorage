@@ -4,7 +4,7 @@
 
 
 class script(object):
-    START_TXT = """<b>Hᴇʟʟᴏ {},ᴍʏ ɴᴀᴍᴇ {},【ɪ ᴀᴍ ʟᴀᴛᴇꜱᴛ ᴀᴅᴠᴀɴᴄᴇᴅ】ᴀɴᴅ ᴘᴏᴡᴇʀꜰᴜʟ ꜰɪʟᴇ ꜱᴛᴏʀᴇ ʙᴏᴛ +└ᴄʟᴏɴᴇ ғᴇᴀᴛᴜʀᴇ┘+└sᴛʀᴇᴀᴍ / ᴅᴏᴡɴʟᴏᴀᴅ ʟɪɴᴋ ғᴇᴀᴛᴜʀᴇ┘+├ᴄᴜꜱᴛᴏᴍ ᴜʀʟ ꜱʜᴏʀᴛɴᴇʀ ꜱᴜᴘᴘᴏʀᴛ┤+  ᢵᴀᴜᴛᴏ ᴅᴇʟᴇᴛᴇ sᴜᴘᴘᴏʀᴛ ᢴ ᢾᴀɴᴅ ʙᴇꜱᴛ ᴜɪ ᴘᴇʀꜰᴏʀᴍᴀɴᴄᴇᢿ</b>"""
+    START_TXT = """<b>Hɛʟʟᴏ! {} ɪs Fɪʟᴇ Sᴛᴏʀᴇ Bᴏᴛ, ᴛʜᴇ ʟᴀᴛᴇsᴛ ᴀᴅᴠᴀɴᴄᴇᴅ ᴀɴᴅ ᴘᴏᴡᴇʀғᴜʟ ғɪʟᴇ sᴛᴏʀᴀɢᴇ bᴏᴛ ᴡɪᴛʜ ᴇxᴄɪᴛɪɴɢ ғᴇᴀᴛᴜʀᴇ</b>"""
 
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
@@ -43,7 +43,7 @@ If You Want To Remove Api Then Copy This And Send To Bot - `/api None`"""
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
 # Ask Doubt on telegram @KingVJ01
 
-    ABOUT_TXT = """<b>Hɛʟʟᴏ! Mʏ ɴᴀᴍᴇ ɪs Fɪʟᴇ Sᴛᴏʀᴇ Bᴏᴛ, ᴛʜᴇ ʟᴀᴛᴇsᴛ ᴀɴᴅ ᴘᴏᴡᴇʀғᴜʟ ᴘᴇʀᴍᴀɴᴇɴᴛ ғɪʟᴇ sᴛᴏʀᴀɢᴇ sᴏʟᴜᴛɪᴏɴ ᴡɪᴛʜ ᴇxᴄɪᴛɪɴɢ ғᴇᴀᴛᴜʀᴇs
+    ABOUT_TXT = """<b>Hɛʟʟᴏ! {} ɪs Fɪʟᴇ Sᴛᴏʀᴇ Bᴏᴛ, ᴛʜᴇ ʟᴀᴛᴇsᴛ ᴀɴᴅ ᴘᴏᴡᴇʀғᴜʟ ᴘᴇʀᴍᴀɴᴇɴᴛ ғɪʟᴇ sᴛᴏʀᴀɢᴇ sᴏʟᴜᴛɪᴏɴ ᴡɪᴛʜ ᴇxᴄɪᴛɪɴɢ ғᴇᴀᴛᴜʀᴇs
 
 ✨ Clone & Backup Feature
 🔗 Stream/Download Link
