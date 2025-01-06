@@ -11,9 +11,9 @@ class script(object):
 # Ask Doubt on telegram @KingVJ01
 
     
-    CAPTION = """<b>📂 ғɪʟᴇɴᴀᴍᴇ : {file_namee}
+    CAPTION = """<b>📂 ғɪʟᴇɴᴀᴍᴇ : {file_name}
 
-sɪᴢᴇ ⚙️: {filee_size}
+sɪᴢᴇ ⚙️: {file_size}
 
 Jᴏɪɴ [ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ](https://t.me/CjTomOfficial)</b>""" 
 
@@ -83,7 +83,7 @@ First Send /clone command then follow below steps.
 4) ᴛʜᴇɴ ʏᴏᴜ ᴡɪʟʟ ɢᴇᴛ ᴀ ᴍᴇssᴀɢᴇ ᴡɪᴛʜ ʏᴏᴜʀ ʙᴏᴛ ᴛᴏᴋᴇɴ.
 5) ꜰᴏʀᴡᴀʀᴅ ᴛʜᴀᴛ ᴍᴇssᴀɢᴇ ᴛᴏ ᴍᴇ.
 
-ᴛʜᴇɴ ɪ ᴀᴍ ᴛʀʏ ᴛᴏ ᴄʀᴇᴀᴛᴇ ᴀ ᴄᴏᴘʏ ʙᴏᴛ ᴏғ ᴍᴇ ғᴏʀ ʏᴏᴜ ᴏɴʟʏ 😌</b>"""
+The clone option is currently unavailable A fix will be available soon ⚒️</b>"""
 
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
@@ -95,7 +95,7 @@ First Send /clone command then follow below steps.
 🔗 Sᴛʀᴇᴀᴍ/ᴅᴏᴡɴʟᴏᴀᴅ Lɪɴᴋ
 🌐 Cᴜsᴛᴏᴍ ᴜʀʟ Sʜᴏʀᴛᴇɴᴇʀ Sᴜᴘᴘᴏʀᴛ
 🗑️ ᴀᴜᴛᴏ-ᴅᴇʟᴇᴛᴇ & Sᴇᴄᴜʀɪᴛʏ
-🚀 Bᴇsᴛ Pᴇʀғᴏʀᴍᴀɴᴄᴇ & U
+🚀 Bᴇsᴛ Pᴇʀғᴏʀᴍᴀɴᴄᴇ
 📂 Pᴇʀᴍᴀɴᴇɴᴛ Fɪʟᴇ Sᴛᴏʀᴀɢᴇ</b>"""
 
 # Don't Remove Credit Tg - @VJ_Botz
