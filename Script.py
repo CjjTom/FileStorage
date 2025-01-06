@@ -11,9 +11,9 @@ class script(object):
 # Ask Doubt on telegram @KingVJ01
 
     
-    CAPTION = """<b>📂 ғɪʟᴇɴᴀᴍᴇ : {file_nme}
+    CAPTION = """<b>📂 ғɪʟᴇɴᴀᴍᴇ : {file_name}
 
-sɪᴢᴇ ⚙️: {fitle_sze}
+sɪᴢᴇ ⚙️: {file_size}
 
 Jᴏɪɴ [ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ](https://t.me/CjTomOfficial)</b>""" 
 
@@ -62,12 +62,11 @@ If You Want To Remove Api Then Copy This And Send To Bot - `/api None`"""
 
 🤖 ᴍʏ ɴᴀᴍᴇ: {}
 
-✨ Clone & Backup Feature
-🔗 Stream/Download Link
-🌐 Custom URL Shortener Support
-🗑️ Auto-Delete & Security
-🚀 Best Performance & UI
-🛠️Admin: <a href=https://t.me/DrMalluAdminBot>AdminHelp</a></b>
+📝 ʟᴀɴɢᴜᴀɢᴇ: <a href=https://www.python.org>𝐏𝐲𝐭𝐡𝐨𝐧𝟑</a>
+
+📚 ʟɪʙʀᴀʀʏ: <a href=https://docs.pyrogram.org>𝐏𝐲𝐫𝐨𝐠𝐫𝐚𝐦</a>
+
+🧑🏻‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ: <a href=tg://user?id={}>ᴅᴇᴠᴇʟᴏᴘᴇʀ</a></b>
 """
 
 # Don't Remove Credit Tg - @VJ_Botz
