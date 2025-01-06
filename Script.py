@@ -10,6 +10,20 @@ class script(object):
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
 # Ask Doubt on telegram @KingVJ01
 
+CAPTION = """<b>📂 ғɪʟᴇɴᴀᴍᴇ : {file_name}
+sɪᴢᴇ ⚙️: {file_size}
+🎥Tɪᴛʟᴇ : {filename}
+🗂️Fɪʟᴇ : {file_size} 
+🔊Lᴀɴɢᴜᴀɢᴇ : {Languages}
+🎬Qᴜᴀʟɪᴛʏ : {quality} 
+🕒 Dᴜʀᴀᴛɪᴏɴ : {duration}
+✯✰ ✩ 𝐣𝐨𝐢𝐧 𝐜𝐡𝐚𝐧𝐧𝐞𝐥 𝐦𝐨𝐫𝐞 𝐦𝐨𝐯𝐢𝐞𝐬✩ ✰ ✯
+<b><blockquote>ᴊᴏɪɴᴄʜᴀɴɴᴇʟ @KeralaCaptain
+ᴊᴏɪɴ ᴜᴘʟᴏᴀᴅ ᴄʜᴀɴɴᴇʟ @MalluPuls</blockquote></b>
+<b><a href='https://t.me/+ttinqDqlOtNkOWM1'>🍿ʟᴀᴛᴇsᴛ ᴍᴏᴠɪᴇ ᴜᴘᴅᴀᴛᴇ🍿</a></b>"""
+    
+# Don't Remove Credit Tg - @VJ_Botz
+
     SHORTENER_API_MESSAGE = """<b>Tᴏ ᴀᴅᴅ ᴏʀ ᴜᴘᴅᴀᴛᴇ ʏᴏᴜʀ Sʜᴏʀᴛɴᴇʀ Wᴇʙsɪᴛᴇ API, /api (ᴀᴘɪ)
             
 <b>Ex: /api 𝟼LZǫ𝟾𝟻𝟷sXᴏғғғPHᴜɢɪKQǫ
