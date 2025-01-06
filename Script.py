@@ -11,10 +11,11 @@ class script(object):
 # Ask Doubt on telegram @KingVJ01
 
     
-    CAPTION = """<b>🎥 Tɪᴛʟᴇ : {file_name}</b>
-<b>🗂️ Fɪʟᴇ : {file_size}</b>
-<b>🔊 Lᴀɴɢᴜᴀɢᴇ : {file_languages}</b>
-<b>🎬 Qᴜᴀʟɪᴛʏ : {file_quality}</b>""" 
+    CAPTION = """<b>📂 ғɪʟᴇɴᴀᴍᴇ : {file_namee}
+
+sɪᴢᴇ ⚙️: {filee_size}
+
+Jᴏɪɴ [ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ](https://t.me/CjTomOfficial)</b>""" 
 
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
