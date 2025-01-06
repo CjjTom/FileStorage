@@ -10,11 +10,14 @@ class script(object):
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
 # Ask Doubt on telegram @KingVJ01
 
-CAPTION = """<b>📂 ғɪʟᴇɴᴀᴍᴇ : {file_name}
 
-sɪᴢᴇ ⚙️: {file_size}"""
+CAPTION = """<b>📂 ғɪʟᴇɴᴀᴍᴇ : {file_namye}
+
+sɪᴢᴇ ⚙️: {file_sizet}"""
     
 # Don't Remove Credit Tg - @VJ_Botz
+# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
+# Ask Doubt on telegram @KingVJ01
 
     SHORTENER_API_MESSAGE = """<b>Tᴏ ᴀᴅᴅ ᴏʀ ᴜᴘᴅᴀᴛᴇ ʏᴏᴜʀ Sʜᴏʀᴛɴᴇʀ Wᴇʙsɪᴛᴇ API, /api (ᴀᴘɪ)
             
@@ -25,6 +28,7 @@ sɪᴢᴇ ⚙️: {file_size}"""
 Cᴜʀʀᴇɴᴛ Sʜᴏʀᴛᴇɴᴇʀ API:</b> `{shortener_api}`
 
 If You Want To Remove Api Then Copy This And Send To Bot - `/api None`"""
+
 
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
