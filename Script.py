@@ -11,16 +11,8 @@ class script(object):
 # Ask Doubt on telegram @KingVJ01
 
 CAPTION = """<b>📂 ғɪʟᴇɴᴀᴍᴇ : {file_name}
-sɪᴢᴇ ⚙️: {file_size}
-🎥Tɪᴛʟᴇ : {filename}
-🗂️Fɪʟᴇ : {file_size} 
-🔊Lᴀɴɢᴜᴀɢᴇ : {Languages}
-🎬Qᴜᴀʟɪᴛʏ : {quality} 
-🕒 Dᴜʀᴀᴛɪᴏɴ : {duration}
-✯✰ ✩ 𝐣𝐨𝐢𝐧 𝐜𝐡𝐚𝐧𝐧𝐞𝐥 𝐦𝐨𝐫𝐞 𝐦𝐨𝐯𝐢𝐞𝐬✩ ✰ ✯
-<b><blockquote>ᴊᴏɪɴᴄʜᴀɴɴᴇʟ @KeralaCaptain
-ᴊᴏɪɴ ᴜᴘʟᴏᴀᴅ ᴄʜᴀɴɴᴇʟ @MalluPuls</blockquote></b>
-<b><a href='https://t.me/+ttinqDqlOtNkOWM1'>🍿ʟᴀᴛᴇsᴛ ᴍᴏᴠɪᴇ ᴜᴘᴅᴀᴛᴇ🍿</a></b>"""
+
+sɪᴢᴇ ⚙️: {file_size}"""
     
 # Don't Remove Credit Tg - @VJ_Botz
 
