@@ -49,7 +49,7 @@ If You Want To Remove Api Then Copy This And Send To Bot - `/api None`"""
 🔗 Stream/Download Link
 🌐 Custom URL Shortener Support
 🗑️ Auto-Delete & Security
-🚀 Best Performance & UI</b>""
+🚀 Best Performance & UI
 
 🤖 ᴍʏ ɴᴀᴍᴇ: {}
 
